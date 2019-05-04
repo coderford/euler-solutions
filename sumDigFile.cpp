@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    ifstream infile("factorial_100.txt");
+    ifstream infile("input/factorial_100.txt");
     char ch;
     int sum = 0;
     infile>>ch;
